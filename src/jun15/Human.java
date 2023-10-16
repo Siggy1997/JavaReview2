@@ -13,6 +13,7 @@ public class Human {
 	// 사람에게 필요한 정보 -> 필요한 정보만 남기고 필요없는거 뺴버림
 	String name;
 	int age;
+	int num;
 
 	// 생성자
 	// 메소드
