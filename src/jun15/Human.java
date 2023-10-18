@@ -20,6 +20,7 @@ public class Human {
 	public void myInfo() {
 
 		System.out.println("내 이름은 " + name + "입니다");
+		System.out.println("내 이름은 " + name + "입니다");
 		System.out.println("내 나이는 " + age + "살 입니다");
 
 	}
